@@ -23,4 +23,4 @@ The goal is to craft a clear, concise, and compelling resume that not only refle
 
 ### Link to Resume
 
-This README provides you with a clear outline of the project objectives and submission guidelines. Remember to replace `file:///C:/Users/suppo/Downloads/Resume.pdf` with the actual link to your Google Docs resume before submitting. The completion of this project will leave you with a polished CV, ready to be presented to potential employers in the tech industry. Good luck!
+This README provides you with a clear outline of the project objectives and submission guidelines. Remember to replace https://docs.google.com/document/d/1wBIj1f3DI3YmjVEw3pNId5DfqxTY-FpFyUq84RMcGTY/edit with the actual link to your Google Docs resume before submitting. The completion of this project will leave you with a polished CV, ready to be presented to potential employers in the tech industry. Good luck!
